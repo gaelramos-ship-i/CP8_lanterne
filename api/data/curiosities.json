@@ -40,5 +40,12 @@
     "city": "La Rochelle",
     "category": "mémoire",
     "description": "Une ancienne remise de quai devenue un repère pour les promeneurs curieux."
+  },
+  {
+    "slug": "Eglise saint sauveur",
+    "title": "Eglise saint sauveur",
+    "city": "Brignoles",
+    "category": "mémoire",
+    "description": "L'Eglise de la ville de Brignoles"
   }
 ]
