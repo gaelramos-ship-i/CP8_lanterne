@@ -4,7 +4,7 @@
 ```text
 CP8_Lanterne/           
 │   ├── data
-│       └── curiosities.json
+│   │    └── curiosities.json
 │   └── index.js
 ├── docs/                   
 │   ├── deploiement-vercel.md
@@ -30,7 +30,7 @@ CP8_Lanterne/
 **Installation de pnpm :** `npm install -g pnpm`
 
 **Versions:**
-- Node version: v24.13.1
+- Node version: v26.10.0
 - pnpm version : 11.19.0
 
 **Scripts:**
@@ -50,3 +50,19 @@ CP8_Lanterne/
 - node_modules/
 - .env
 - vercel.json
+
+## Sécuriser la configuration
+
+**Evolution de Node.js**
+
+![image](./img//evolution.png)
+Source: https://nodejs.org/fr/about/previous-releases#calendrier-de-version
+
+Les versions récentes de Node.js finissent par arriver en fin de support. Il est donc important de maintenir Node.js à jour afin d’éviter des problèmes de compatibilité ou de sécurité lors du déploiement.
+
+Il est recommandé de :
+
+* vérifier la version de Node.js utilisée par le projet avec `node -v`
+* mettre à jour node si nécessaire
+
+**Date de consultation : 22 septembre 2026.**
