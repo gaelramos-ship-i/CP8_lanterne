@@ -26,3 +26,7 @@ L’API est disponible sur `https://cp-8-lanterne-e57h.vercel.app/`.
 - `GET /api/curiosities/:slug`
 
 Le déploiement cible Vercel. Les variables d’environnement sont listées dans `.env.example`. Aucune donnée sensible ne doit être ajoutée au dépôt.
+
+## Repository GitHub
+
+https://github.com/gaelramos-ship-i/CP8_lanterne.git
