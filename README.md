@@ -16,7 +16,7 @@ pnpm test
 pnpm start
 ```
 
-L’API est disponible sur `http://localhost:3000`.
+L’API est disponible sur `https://cp-8-lanterne-e57h.vercel.app/`.
 
 ## Routes principales
 
